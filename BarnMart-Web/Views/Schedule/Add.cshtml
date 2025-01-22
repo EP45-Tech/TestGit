@@ -1,0 +1,34 @@
+﻿@model ScheduleVM
+
+<h3>Add new Delivery Schedule</h3>
+
+
+<form asp-controller="Schedule" asp-action="Add" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+
+    <label asp-for="vehicle"></label>
+    <input type="text" asp-for="vehicle" class="form-control" />
+    <br />
+    <label asp-for="Driver"></label>
+    <input type="text" asp-for="Driver" class="form-control" />
+    <br />
+    <label asp-for="PickUpLocation"></label>
+    <input type="text" asp-for="PickUpLocation" class="form-control" />
+    <br />
+    <label asp-for="PickUpDay"></label>
+    <input type="text" asp-for="PickUpDay" class="form-control" />
+    <br />
+    <label asp-for="PickUpTime"></label>
+    <input type="text" asp-for="PickUpTime" class="form-control" />
+    <br />
+
+    <a asp-controller="Schedule" asp-action="Index" class="btn btn-primary">
+        <i class="fas fa-chevron-circle-left"></i>
+        Return
+    </a>
+    <br /><br />
+    <input type="submit" value="Add Schedule" class="btn btn-success" />
+
+
+</form>

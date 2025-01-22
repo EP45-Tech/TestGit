@@ -1,0 +1,32 @@
+﻿@*
+   Page If login was successful
+*@
+@{
+    var userName = User.Identity.IsAuthenticated ? User.Identity.Name : "Guest";
+}
+
+<div class="welcome-container">
+    <h1>Welcome, @userName</h1>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-light">
+        <i class="fas fa-home"></i>
+        Back to Home
+    </a>
+</div>
+
+<style>
+    .welcome-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 20px; /* Adjust the margin as needed */
+    }
+
+        .welcome-container h1 {
+            margin: 0;
+        }
+
+        .welcome-container a {
+            margin-top: 10px; /* Space between the welcome message and the button */
+        }
+</style>

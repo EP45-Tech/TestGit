@@ -1,0 +1,84 @@
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.deps.json
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.runtimeconfig.json
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.AssemblyReference.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfoInputs.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.AssemblyInfo.cs
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\refint\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\BarnMart.DataModel.genruntimeconfig.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\The-Barn-Mart\obj\Debug\net8.0\ref\BarnMart.DataModel.dll

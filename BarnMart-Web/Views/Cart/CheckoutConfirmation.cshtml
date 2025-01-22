@@ -1,0 +1,16 @@
+﻿@model Cart
+
+<h2>Checkout Result</h2>
+
+@{
+    var message = TempData["CheckoutMessage"] as string;
+}
+
+@if (message == "success")
+{
+    <p>Your order has been successfully processed.</p>
+}
+else if (message == "error")
+{
+    <p>There was a problem processing your order. Please try again.</p>
+}

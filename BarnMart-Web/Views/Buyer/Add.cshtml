@@ -1,0 +1,23 @@
+﻿@model BuyerVM
+
+<h3>Add a New Buyer</h3>
+
+<form asp-controller="Buyer" asp-action="Add" method="post">
+
+    <label asp-for="LastName"></label>
+    <input type="text" asp-for="LastName" class="form-control" />
+    <br />
+
+    <label asp-for="FirstName"></label>
+    <input type="text" asp-for="FirstName" class="form-control" />
+    <br />
+
+    <label asp-for="Middlename"></label>
+    <input type="text" asp-for="Middlename" class="form-control" />
+    <br />
+
+    <a asp-controller="Buyer" asp-action="Index" class="btn btn-primary">
+        Back
+    </a>
+    <input type="submit" value="Add Buyer" class="btn btn-primary" />
+</form>
