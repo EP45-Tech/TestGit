@@ -1,0 +1,102 @@
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\David Mason\Desktop\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\Jerry\Downloads\Entprog-Finals\Entprog-Finals\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\Jerry\Downloads\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\Aki\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.deps.json
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.runtimeconfig.json
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\bin\Debug\net8.0\BarnMart.DataModel.pdb
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.AssemblyReference.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfoInputs.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.AssemblyInfo.cs
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.CoreCompileInputs.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.csproj.Up2Date
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\refint\CRUD.Repo.dll
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.pdb
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\CRUD.Repo.genruntimeconfig.cache
+C:\Users\David Mason\Desktop\The-Barn-Mart\CRUD.Repo\obj\Debug\net8.0\ref\CRUD.Repo.dll

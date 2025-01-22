@@ -1,0 +1,83 @@
+﻿@*
+    ONLY AVAILABLE FOR ADMIN
+*@
+@model SellerRegisterVM
+
+@if (User.IsInRole("Admin"))
+{
+    <h3 style="text-align: center;">Register a Seller Account</h3>
+
+    <div class="register-container">
+        <form asp-controller="SellerAccount" asp-action="SellerRegister" method="post">
+            <div class="form-group">
+                <label asp-for="Lastname"></label>
+                <input asp-for="Lastname" class="form-control" />
+                <span asp-validation-for="Lastname" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Firstname"></label>
+                <input asp-for="Firstname" class="form-control" />
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" class="form-control" type="password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-actions">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-light">
+                    <i class="fas fa-home"></i>
+                    Back to Home
+                </a>
+                <input type="submit" class="btn btn-success" value="Register" />
+            </div>
+        </form>
+    </div>
+}
+
+<style>
+    .register-container {
+        width: 300px;
+        padding: 20px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+    }
+
+    .form-group {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .form-actions {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+</style>
+
+
+
+}
+

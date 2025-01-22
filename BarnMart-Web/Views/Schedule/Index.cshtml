@@ -1,0 +1,144 @@
+﻿@model List<ScheduleVM>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+    <i class="fas fa-caret-square-left"></i>
+    Back to Home Page
+</a>
+
+@if (User.IsInRole("Admin") || User.IsInRole("Transportify"))
+{
+    <a asp-controller="Schedule" asp-action="Add" class="btn btn-success">
+        <i class="fas fa-plus"></i>
+        Add New Delivery Schedule
+    </a>
+}
+
+<br />
+<br />
+
+@if (Model == null || !Model.Any())
+{
+    <div class="alert alert-info">
+        No Delivery Records Found...
+    </div>
+}
+else
+{
+    // Initialize schedules with an empty list
+    List<Schedule> schedules = new List<Schedule>();
+
+    // Check if ViewBag.Schedules is not null and of the correct type
+    if (ViewBag.Schedules is List<Schedule> tempSchedules && tempSchedules != null)
+    {
+        schedules = tempSchedules;
+    }
+
+    <table id="ScheduleTable" class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>vehicle</th>
+                <th>Driver</th>
+                <th>PickUpLocation</th>
+                <th>PickUpDay</th>
+                <th>PickUpTime</th>
+                @if (User.IsInRole("Admin") || User.IsInRole("Transportify"))
+                {
+                    <th>DateAdded</th>
+                    <th>DateUpdated</th>              
+                }
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.vehicle</td>
+                    <td>@item.Driver</td>
+                    <td>@item.PickUpLocation</td>
+                    <td>@item.PickUpDay</td>
+                    <td>@item.PickUpTime</td>
+                    @if (User.IsInRole("Admin") || User.IsInRole("Transportify"))
+                    {
+                        <td>@item.DateAdded</td>
+                        <td>@item.DateUpdated</td>
+                    }
+                    <td>
+
+                        @if (User.IsInRole("Admin") || User.IsInRole("Transportify"))
+                        {
+                            <form asp-controller="Schedule" asp-action="SelectSchedule" method="post">
+                                <input type="hidden" name="cartItemId" value="@item.Id" />
+
+                                <div class="form-group">
+                                    <label for="schedule">Select Schedule:</label>
+                                    <select name="scheduleId" class="form-control" required>
+                                        @if (schedules.Any())
+                                        {
+                                            @foreach (var schedule in schedules)
+                                            {
+                                                <option value="@schedule.Id">
+                                                    @schedule.vehicle - @schedule.Driver - @schedule.PickUpLocation - @schedule.PickUpDay - @schedule.PickUpTime - @schedule.DateAdded.ToString("MM/dd/yyyy") - @schedule.DateUpdated
+                                                </option>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <option disabled>No schedules available</option>
+                                        }
+                                    </select>
+                                </div>
+
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-check-square "></i>
+                                    Confirm Schedule
+                                    </button>
+                            </form>
+                        }
+                        
+
+                        @if (User.IsInRole("Admin") || User.IsInRole("Transportify"))
+                        {
+                            <a asp-controller="Schedule" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info btn-sm">
+                                <i class="fas fa-edit"></i>
+                                Edit
+                            </a>
+                            <button class="btn btn-danger btn-sm deleteBtn" data-id="@item.Id">
+                                <i class="fas fa-trash"></i>
+                                Delete
+                            </button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<form id="DeleteForm" asp-controller="Schedule" asp-action="Delete" method="post">
+    <input type="hidden" id="HiddenScheduleId" name="Id" value="" />
+</form>
+
+
+@section Scripts {
+    <script>
+        $('.deleteBtn').click(function (e) {
+            swal({
+                title: "Are you sure?",
+                text: "Are you sure you want to delete this record?",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true
+            }).then((confirm) => {
+                if (confirm) {
+                    var btn = $(this);
+                    var id = btn.data("id");
+                    $("#HiddenScheduleId").val(id);
+                    $("#DeleteForm").submit();
+                }
+            });
+        });
+    </script>
+}

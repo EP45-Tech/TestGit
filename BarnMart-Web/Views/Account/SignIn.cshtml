@@ -1,0 +1,64 @@
+﻿@model SignInVM
+
+<h3 style="text-align: center;">Sign In to the Website</h3>
+
+<div class="signin-container">
+    <form asp-controller="Account" asp-action="SignIn" asp-route-returnUrl="@Model.returnUrl" method="post">
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label asp-for="Username"></label>
+            <input asp-for="Username" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" type="password" />
+        </div>
+
+        <div class="form-actions">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-light">
+                <i class="fas fa-home"></i>
+                Back to Home
+            </a>
+            <input type="submit" class="btn btn-success" value="Log-In" />
+        </div>
+
+    </form>
+
+    <div class="register-link">
+        Don't Have an Account? <a asp-controller="Account" asp-action="Register">Register Here</a>
+    </div>
+</div>
+
+<style>
+    .signin-container {
+        width: 300px;
+        padding: 20px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+    }
+
+    .form-group {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .form-actions {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .register-link {
+        margin-top: 10px;
+        text-align: center;
+    }
+</style>

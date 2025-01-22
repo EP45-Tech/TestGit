@@ -1,0 +1,20 @@
+﻿@model Cart
+
+<h2>Check Out Result</h2>
+
+@{
+    var message = TempData["CheckoutMessage"] as string;
+}
+
+@if (message == "success")
+{
+    <script>
+        Swal.fire('Success', 'Your order has been successfully processed.', 'success');
+    </script>
+}
+else if (message == "error")
+{
+    <script>
+        Swal.fire('Error', 'There was a problem processing your order.', 'error');
+    </script>
+}
